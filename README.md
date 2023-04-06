@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Saha</h1>
-<h3 align="center">A passionate flutter developer from India.</h3>
+<h3 align="center">A passionate application developer from India.</h3>
 
 - 💬 Ask me about **Flutter,C++,C,Python,Java**
 
